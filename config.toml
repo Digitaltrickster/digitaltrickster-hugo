@@ -1,0 +1,8 @@
+baseurl = "https://digitaltrickster.github.io"
+languageCode = "en-US"
+title = "Digi's Blog"
+theme = "code-editor"
+
+[params]
+  author = "Justin Flowers" # Optional, controls author name display on posts
+  locale = "en-US"
