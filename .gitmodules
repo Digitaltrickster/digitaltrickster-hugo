@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:digitaltrickster/digitaltrickster.github.io.git
 	branch = master
+[submodule "themes/code-editor"]
+	path = themes/code-editor
+	url = https://github.com/aubm/hugo-code-editor-theme.git
